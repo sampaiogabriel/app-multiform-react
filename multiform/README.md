@@ -1,22 +1,6 @@
-# App Multiform - B7 Web
+# Getting Started with Create React App
 
-Este foi o último projeto realizado pela <a href="https://b7web.com.br/d5/">B7 Web</a>, ministrado pelo boníssimo Bonieky Lacerda. O projeto apresenta um formulário com vários passos, utilizando componentes como ContextAPI, uso de SVG e Routers. 
-
-Foi solicitado um desafio de concluir o último passo, abaixo deste tópico estará todo as imagens da conclusão deste projeto.
-
-# Projeto
-
-<img src="img/step1.png" alt="multiform" />
-<hr>
-
-<img src="img/step2.png" alt="multiform" />
-<hr>
-
-<img src="img/step3.png" alt="multiform" />
-<hr>
-
-<img src="img/step4.png" alt="multiform" />
-<hr>
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
